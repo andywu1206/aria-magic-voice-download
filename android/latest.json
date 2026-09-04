@@ -1,0 +1,19 @@
+{
+  "platform": "android",
+  "productName": "Aria Magic Voice",
+  "versionName": "10.182",
+  "versionCode": 100182,
+  "releaseDate": "2026-09-04",
+  "minSdkVersion": 29,
+  "targetSdkVersion": 34,
+  "architecture": "arm64-v8a",
+  "packageFileName": "AriaInputMethod-Android-v10.182.apk",
+  "fileSizeBytes": 172909459,
+  "sha256": "dfce37db12c735233178474d635b15e1354b7ccad56bf31af0763c7b76861f82",
+  "status": "draft_beta",
+  "channels": {
+    "githubReleaseTag": "aria-android-v10.182-test",
+    "googleDrive": "pending_manual_upload",
+    "baiduNetdisk": "pending_manual_upload"
+  }
+}
