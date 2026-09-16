@@ -1,22 +1,22 @@
 {
   "platform": "android",
   "productName": "Aria Magic Voice",
-  "versionName": "10.182",
-  "versionCode": 100182,
-  "releaseDate": "2026-09-04",
+  "versionName": "10.357",
+  "versionCode": 100357,
+  "releaseDate": "2026-09-16",
   "minSdkVersion": 29,
   "targetSdkVersion": 34,
   "architecture": "arm64-v8a",
-  "packageFileName": "AriaInputMethod-Android-v10.182.apk",
-  "fileSizeBytes": 172909459,
-  "sha256": "dfce37db12c735233178474d635b15e1354b7ccad56bf31af0763c7b76861f82",
+  "packageFileName": "AriaInputMethod-Android-v10.357.apk",
+  "fileSizeBytes": 203971066,
+  "sha256": "891390a5bffb60ba7962106b02a9a4c05ac4212d1a8f6aeec49e790e7b1d041b",
   "status": "prerelease_test",
   "channels": {
-    "githubReleaseTag": "aria-android-v10.182-test",
+    "githubReleaseTag": "aria-android-v10.357-test",
     "googleDrive": "pending_manual_upload",
     "baiduNetdisk": "pending_manual_upload"
   },
-  "assetDownloadUrl": "https://github.com/andywu1206/aria-magic-voice-download/releases/download/aria-android-v10.182-test/AriaInputMethod-Android-v10.182.apk",
-  "githubAssetDigest": "sha256:dfce37db12c735233178474d635b15e1354b7ccad56bf31af0763c7b76861f82",
-  "releasePageUrl": "https://github.com/andywu1206/aria-magic-voice-download/releases/tag/aria-android-v10.182-test"
+  "assetDownloadUrl": "https://github.com/andywu1206/aria-magic-voice-download/releases/download/aria-android-v10.357-test/AriaInputMethod-Android-v10.357.apk",
+  "githubAssetDigest": "sha256:891390a5bffb60ba7962106b02a9a4c05ac4212d1a8f6aeec49e790e7b1d041b",
+  "releasePageUrl": "https://github.com/andywu1206/aria-magic-voice-download/releases/tag/aria-android-v10.357-test"
 }
