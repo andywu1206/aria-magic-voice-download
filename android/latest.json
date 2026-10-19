@@ -16,7 +16,7 @@
     "googleDrive": "pending_manual_upload",
     "baiduNetdisk": "pending_manual_upload"
   },
-  "assetDownloadUrl": "https://github.com/andywu1206/aria-magic-voice-download/releases/download/aria-android-v10.480-free/AriaInputMethod-Android-v10.480.apk",
+  "assetDownloadUrl": "https://downloads.ariamagicvoice.com/releases/aria/android/10.480/AriaInputMethod-Android-v10.480.apk",
   "githubAssetDigest": "sha256:3622904db824dc5a5534d077da4a9456a171a9a3dd6904b72750192fd1975ec9",
   "releasePageUrl": "https://github.com/andywu1206/aria-magic-voice-download/releases/tag/aria-android-v10.480-free"
 }
