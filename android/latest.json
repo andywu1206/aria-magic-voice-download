@@ -12,10 +12,10 @@
   "sha256": "3100b39f2087ea61da43b3e2f362f1da400c10e905c719b25ba14745846a43c1",
   "status": "release",
   "channels": {
-    "officialDownloadUrl": "https://downloads.ariamagicvoice.com/releases/aria/android/10.518/AriaInputMethod-Android-v10.518.apk",
+    "officialDownloadUrl": "https://github.com/andywu1206/aria-magic-voice-download/releases/download/aria-android-v10.518-free/AriaInputMethod-Android-v10.518.apk",
     "githubReleaseTag": "aria-android-v10.518-free"
   },
-  "assetDownloadUrl": "https://downloads.ariamagicvoice.com/releases/aria/android/10.518/AriaInputMethod-Android-v10.518.apk",
+  "assetDownloadUrl": "https://github.com/andywu1206/aria-magic-voice-download/releases/download/aria-android-v10.518-free/AriaInputMethod-Android-v10.518.apk",
   "githubAssetDigest": "sha256:3100b39f2087ea61da43b3e2f362f1da400c10e905c719b25ba14745846a43c1",
   "releasePageUrl": "https://github.com/andywu1206/aria-magic-voice-download/releases/tag/aria-android-v10.518-free"
 }
