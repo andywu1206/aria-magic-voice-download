@@ -1,14 +1,14 @@
 {
   "schema": 1,
   "channel": "free-website",
-  "versionName": "20.118",
-  "versionCode": 200118,
-  "releasedAt": "2026-11-20T11:16:00+08:00",
+  "versionName": "20.119",
+  "versionCode": 200119,
+  "releasedAt": "2026-11-20T12:32:00+08:00",
   "fileName": "Aria Magic Voice.exe",
-  "sizeBytes": 8310272,
-  "sha256": "6600f01ff26c79ed09adba26559830a074ebc38fe9e42cc7f0c9b62da5eeadea",
-  "downloadUrl": "https://downloads.ariamagicvoice.com/releases/aria/windows/20.118/AriaMagicVoice.exe",
-  "githubFallbackUrl": "https://github.com/andywu1206/aria-magic-voice-download/releases/download/aria-windows-v20.118-free/Aria.Magic.Voice.exe",
+  "sizeBytes": 16545280,
+  "sha256": "5da5bcf65b8d7c27fdc46cf8cf73b98b3531a826b834ac6562496e5aab4156b2",
+  "downloadUrl": "https://downloads.ariamagicvoice.com/releases/aria/windows/20.119/AriaMagicVoice.exe",
+  "githubFallbackUrl": "https://github.com/andywu1206/aria-magic-voice-download/releases/download/aria-windows-v20.119-free/Aria.Magic.Voice.exe",
   "storeUrl": "https://apps.microsoft.com/detail/9NMW7BL4V6N3",
-  "minWindows": "Windows 10 / 11 ARM64"
+  "minWindows": "Windows 10 / 11 (x64 & ARM64 Universal)"
 }
