@@ -1,13 +1,14 @@
 {
   "schema": 1,
   "channel": "free-website",
-  "versionName": "20.115",
-  "versionCode": 200115,
-  "releasedAt": "2026-11-19T21:29:00+08:00",
-  "fileName": "Aria_Windows_v20.115_ARM64_Setup.zip",
-  "sizeBytes": 9121699,
-  "sha256": "00f8a256659e91b0e6a76112c918ab10b3f813636d3ae61cb7b0130854424ecb",
-  "downloadUrl": "https://downloads.ariamagicvoice.com/releases/aria/windows/20.115/Aria_Windows_v20.115_ARM64_Setup.zip",
-  "githubFallbackUrl": "https://github.com/andywu1206/aria-magic-voice-download/releases/download/aria-windows-v20.115-free/Aria_Windows_v20.115_ARM64_Setup.zip",
+  "versionName": "20.117",
+  "versionCode": 200117,
+  "releasedAt": "2026-11-20T10:25:06+08:00",
+  "fileName": "Aria_Windows_v20.117_ARM64_Setup.zip",
+  "sizeBytes": 9190976,
+  "sha256": "1d81ff43bf7da744e18f82af9ec69c072ed4553afe638c7f4ca411dfc6cee8b7",
+  "downloadUrl": "https://downloads.ariamagicvoice.com/releases/aria/windows/20.117/Aria_Windows_v20.117_ARM64_Setup.zip",
+  "githubFallbackUrl": "https://github.com/andywu1206/aria-magic-voice-download/releases/download/aria-windows-v20.117-free/Aria_Windows_v20.117_ARM64_Setup.zip",
+  "storeUrl": "https://apps.microsoft.com/detail/9NMW7BL4V6N3",
   "minWindows": "Windows 10 / 11 ARM64"
 }
