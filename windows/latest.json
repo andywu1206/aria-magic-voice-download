@@ -1,14 +1,14 @@
 {
   "schema": 1,
   "channel": "free-website",
-  "versionName": "20.117",
-  "versionCode": 200117,
-  "releasedAt": "2026-11-20T10:25:06+08:00",
-  "fileName": "Aria_Windows_v20.117_ARM64_Setup.zip",
-  "sizeBytes": 9190976,
-  "sha256": "1d81ff43bf7da744e18f82af9ec69c072ed4553afe638c7f4ca411dfc6cee8b7",
-  "downloadUrl": "https://downloads.ariamagicvoice.com/releases/aria/windows/20.117/Aria_Windows_v20.117_ARM64_Setup.zip",
-  "githubFallbackUrl": "https://github.com/andywu1206/aria-magic-voice-download/releases/download/aria-windows-v20.117-free/Aria_Windows_v20.117_ARM64_Setup.zip",
+  "versionName": "20.118",
+  "versionCode": 200118,
+  "releasedAt": "2026-11-20T11:16:00+08:00",
+  "fileName": "Aria Magic Voice.exe",
+  "sizeBytes": 8310272,
+  "sha256": "6600f01ff26c79ed09adba26559830a074ebc38fe9e42cc7f0c9b62da5eeadea",
+  "downloadUrl": "https://downloads.ariamagicvoice.com/releases/aria/windows/20.118/AriaMagicVoice.exe",
+  "githubFallbackUrl": "https://github.com/andywu1206/aria-magic-voice-download/releases/download/aria-windows-v20.118-free/Aria.Magic.Voice.exe",
   "storeUrl": "https://apps.microsoft.com/detail/9NMW7BL4V6N3",
   "minWindows": "Windows 10 / 11 ARM64"
 }
