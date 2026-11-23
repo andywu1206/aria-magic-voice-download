@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "channel": "free-website",
-  "versionName": "10.575",
-  "versionCode": 100575,
-  "releasedAt": "2026-11-20T11:06:00+08:00",
-  "fileName": "AriaInputMethod-Android-v10.575.apk",
+  "versionName": "10.578",
+  "versionCode": 100578,
+  "releasedAt": "2026-11-23T16:46:54+08:00",
+  "fileName": "AriaInputMethod-Android-v10.578.apk",
   "sizeBytes": 206570432,
-  "sha256": "77096a1909be9f59b59390a954a4a943e169a24f10703f0605eb228dc012b40f",
-  "downloadUrl": "https://downloads.ariamagicvoice.com/releases/aria/android/10.575/AriaInputMethod-Android-v10.575.apk",
-  "githubFallbackUrl": "https://github.com/andywu1206/aria-magic-voice-download/releases/download/aria-android-v10.575-free/AriaInputMethod-Android-v10.575.apk",
+  "sha256": "1be05b2e47fe4a5e9f8bafc26bffa88a94949e4961fee405b4905119b19ec1e6",
+  "downloadUrl": "https://github.com/andywu1206/aria-magic-voice-download/releases/download/aria-android-v10.578-free/AriaInputMethod-Android-v10.578.apk",
+  "githubFallbackUrl": "https://github.com/andywu1206/aria-magic-voice-download/releases/download/aria-android-v10.578-free/AriaInputMethod-Android-v10.578.apk",
   "minAndroid": "8.0 (API 26)"
 }
